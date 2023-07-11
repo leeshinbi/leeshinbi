@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=617D6D&height=150&section=header&text=01_49g_63m&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=617D6D&height=150&section=header&text=Shinbi's%20Github&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
 
 <h3> :pencil2: Studying </h3>
