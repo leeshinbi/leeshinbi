@@ -4,10 +4,6 @@
 
 <br/><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/><br/>
 
 
