@@ -10,7 +10,5 @@
 <h3> :seedling: My Github Stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeshinbi&show_icons=true&theme=gruvbox)
-<h3> :mag_right: My Languages </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeshinbi&layout=compact)](https://github.com/leeshinbi/github-readme-stats)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltlsql)](https://solved.ac/dltlsql/)
